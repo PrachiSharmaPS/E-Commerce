@@ -1,0 +1,27 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "shoping site  backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrachiSharmaPS/E-Commerce.git"
+  },
+  "author": "prachi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrachiSharmaPS/E-Commerce/issues"
+  },
+  "homepage": "https://github.com/PrachiSharmaPS/E-Commerce#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1284.0",
+    "bcrypt": "^5.1.0",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
